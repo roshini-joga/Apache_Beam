@@ -15,3 +15,7 @@ c) Assignment 3 -
 Apache beam features - demonstrate apache beam in a colab including
 composite transform, pipeline io, triggers, windowing ,pardo and streaming
 
+Video Link: 
+
+
+

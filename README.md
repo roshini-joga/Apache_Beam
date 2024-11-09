@@ -1,5 +1,8 @@
 # Apache_Beam
 
+Google Colab Link : https://colab.research.google.com/drive/1A3eAmH0E_O8avtgsDGNWykPECWWQqxxK#scrollTo=TlwxdkWpOZny
+Video Link : 
+
 a) Assignment 1 is to do a complete dataset EDA in colab (preferably using D3.js visualizations)
 Pick a complex dataset from kaggle 
 Please push to limits and demonstrate advanced d3.js visualizations 
@@ -16,8 +19,5 @@ Attached the sweetviz report in the above files.
 c) Assignment 3 - 
 Apache beam features - demonstrate apache beam in a colab including
 composite transform, pipeline io, triggers, windowing ,pardo and streaming
-
-Video Link: 
-
 
 

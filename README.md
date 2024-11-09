@@ -1,7 +1,7 @@
 # Apache_Beam
 
 Google Colab Link : https://colab.research.google.com/drive/1A3eAmH0E_O8avtgsDGNWykPECWWQqxxK#scrollTo=TlwxdkWpOZny
-Video Link : 
+Video Link : https://www.loom.com/share/fa146bec314444b1b033e3b1c95bdeb8?from_recorder=1&focus_title=1
 
 a) Assignment 1 is to do a complete dataset EDA in colab (preferably using D3.js visualizations)
 Pick a complex dataset from kaggle 
